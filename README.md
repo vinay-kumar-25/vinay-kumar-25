@@ -6,10 +6,10 @@ I am a passionate **Software Engineer** and an aspiring developer with a strong 
 ---
 
 ### 🚀 Quick Stats
-- 🎓 **Education:** B.Tech in CSE, NIT Uttarakhand (Class of 2026)
+- 🎓 **Education:** B.Tech in CSE, NIT Uttarakhand 
 - 🏆 **Competitive Programming:** 700+ problems solved across platforms.
 - 🛠️ **Current Focus:** Advanced Backend Systems & Open Source.
-- 🎶 **Fun Fact:** When I'm not coding, I play the **Flute** or a game of **Volleyball**.
+- 🎶 **Fun Fact:** When I'm not coding, I play the **Flute** or **Volleyball**.
 
 ---
 
