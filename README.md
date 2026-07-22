@@ -37,45 +37,48 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 **🏢 Amazon ML Summer School 2026**
 `July 2026 – Present`
 
 *Selected Participant*
 
-→ Advanced training in Machine Learning & Generative AI  
-→ Learning from Amazon scientists through hands-on sessions  
-→ Exploring Deep Learning, LLMs, and Reinforcement Learning
+→ Machine Learning & Deep Learning  
+→ Generative AI & LLMs  
+→ Hands-on sessions with Amazon scientists
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 **🏢 Accenture, Bengaluru**
-`May – July 2026`
+`May – Jul 2026`
 
-*Summer Intern — Generative AI & Enterprise Systems*
+*Summer Intern — IAM & Cybersecurity*
 
-→ GenAI · Agentic AI · RAG · LangChain · n8n
-→ LLM application development & prompt engineering
-→ Enterprise AI architecture & workflow automation
+→ Identity & Access Management (IAM)  
+→ CyberArk Privileged Access Management (PAM)  
+→ GenAI & Agentic AI learning through Udacity
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 **🔬 IIT Jodhpur**
 `May – Jul 2025`
 
 *Summer Research Intern — HPC*
 
-→ High Performance Computing with Arkouda
-→ Large-scale distributed graph analytics
+→ High Performance Computing with Arkouda  
+→ Large-scale distributed graph analytics  
 → BFS & Connected Components at scale
 
 </td>
+
 </tr>
 </table>
-
 <br/>
 
 ## 🛠️ Tech Stack
