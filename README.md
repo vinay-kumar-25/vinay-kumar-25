@@ -21,11 +21,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E8B84B&height=2" width="100%"/>
 
 ```
-◈  B.Tech CSE @ NIT Uttarakhand  ·  CGPA 9.46 / 10.00  ·  2023 – 2027
-◈  Summer Intern @ Accenture, Bengaluru — building enterprise GenAI systems
-◈  Research Intern @ IIT Jodhpur — HPC & large-scale graph analytics
-◈  800+ DSA problems  ·  Codeforces max rating 1032
-◈  Off-screen: Flute 🎵  Volleyball 🏐
+◈ B.Tech CSE @ NIT Uttarakhand · CGPA 9.46 / 10.00 · 2023 – 2027
+◈ Amazon ML Summer School 2026 · Selected Participant
+◈ Summer Intern @ Accenture, Bengaluru · IAM & Cybersecurity
+◈ Research Intern @ IIT Jodhpur · Parallel Graph Analytics
+◈ 800+ DSA Problems · Codeforces Max Rating 1037
+◈ Off-screen: Flute 🎵 · Volleyball 🏐
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E8B84B&height=2" width="100%"/>
@@ -38,8 +39,20 @@
 <tr>
 <td width="50%" valign="top">
 
+**🏢 Amazon ML Summer School 2026**
+`July 2026 – Present`
+
+*Selected Participant*
+
+→ Advanced training in Machine Learning & Generative AI  
+→ Learning from Amazon scientists through hands-on sessions  
+→ Exploring Deep Learning, LLMs, and Reinforcement Learning
+
+</td>
+<td width="50%" valign="top">
+
 **🏢 Accenture, Bengaluru**
-`May 2026 – Present`
+`May – July 2026`
 
 *Summer Intern — Generative AI & Enterprise Systems*
 
@@ -167,8 +180,8 @@ Itinerary management & booking platform with secure auth and scalable backend ar
 
 | Platform | Progress | Link |
 |:---:|:---:|:---:|
-| 🟡 LeetCode | 450+ solved | [Profile](https://leetcode.com/u/VinayKumar1225/) |
-| 🔵 Codeforces | Max Rating **1032** | [Profile](https://codeforces.com/profile/vinaykumar9814) |
+| 🟡 LeetCode | 600+ solved | [Profile](https://leetcode.com/u/VinayKumar1225/) |
+| 🔵 Codeforces | Max Rating **1037** | [Profile](https://codeforces.com/profile/vinaykumar9814) |
 | 🟠 Coding Ninjas | 160+ solved | [Profile](https://www.naukri.com/code360/profile/vinaykumarsavi) |
 | 🟢 GeeksForGeeks | 70+ solved | [Profile](https://www.geeksforgeeks.org/user/vinaykumarsavi9814/) |
 
