@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-0810s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8B84B?style=flat-square&logo=About.me&logoColor=0a0a0a)](https://vinay-kumar-25.github.io/Portfolio-v2.0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8B84B?style=flat-square&logo=About.me&logoColor=0a0a0a)](https://vinay-kumar-25.github.io/portfolio_3.0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinaykumar12725@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/VinayKumar1225/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vinaykumar9814)
